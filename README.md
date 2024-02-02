@@ -22,6 +22,26 @@ This project is my submission for the Frontend Intern role at OfficeBanao. The a
   - Overlay includes fields for client selection (A, B, C dropdown), manual input for commencement/completion dates with format validation, and manual input for RFQ code.
   - Clicking 'Done' prints the input data on the console.
 
+## Output Screenshots
+
+#### Workorder Page - Overview Tab
+![Tab Implementation - Overview](./src/assets/Workorder-page.png)
+
+#### Workorder Page - Other Tab
+![Tab Implementation - Other](./src/assets/Workorder-Other.png)
+
+#### Workorder Page - Checkboxes
+
+![Expand/Collapsible Feature](./src/assets/Workorder-Checkbox.png)
+
+#### Workorder Page - Save Overlay
+
+![Selection Checkboxes](./src/assets/Workorder-Save.png)
+
+#### Console Output
+
+![Save Selection Functionality](./src/assets/Console-Output.png)
+
 ## Technology Stack
 
 - React: Leveraging the power of React for dynamic and efficient UI.
